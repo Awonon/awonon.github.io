@@ -185,11 +185,6 @@
 
       });
 
-      // Load the acknowledge footer
-      $("#acknowledge").load("acknowledge.html", function() {
-        console.log("acknowledge loaded");
-      });
-
       // Redirect to URL on data-url attr
       $(document).on("click", "[data-url]", function() {
         var url = $(this).data("url");
