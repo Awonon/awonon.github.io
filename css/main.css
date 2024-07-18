@@ -14,9 +14,10 @@
   --trench-blue: #406885;
   --light-blue: #d0e9fe;
   --chocolate: rgb(210, 105, 30);
-  --maroon: maroon;
+  --maroon: #161763;
   --lightest-gray: #e9ecef;
 }
+<!-- --maroon: maroon; -->
 
 html {
   font-size: 18px;
